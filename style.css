@@ -1,41 +1,10 @@
 *{margin: 0; padding: 0;}
-
-body{
-font-family: OCR A Std, monospace;
-font-size: 20px;
-
-
+p {
+  backgroundgit coi-color: grey;
+  padding: 20px;
+  display: none;
 }
-
-.menu{
-list-style:none;
-border:1px solid #fff;
-float: left;
+          
+h2:hover + p {
+  display: block;
 }
-
-.menu li{
-  font-family: OCR A Std, monospace;
-  color: #fff;
-  position: relative ;
-  float: left;
-  border-right:2px solid #333333;
-  }
-.menu li a:hover{
-color:#333;
-}
-
-
-.menu li  ul{
-  position:absolute;
-  top:25px;
-  left:0;
-  background-color: #c0c0c0;
-  display:none;
-  }   
-  .menu li:hover ul, .menu li.over ul{display:block;}
-
-  .menu li ul li{
-    border:4px solid #c0c0c0;
-    display:block;
-    width:auto;
-    }
