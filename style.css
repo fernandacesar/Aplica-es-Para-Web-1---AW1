@@ -1,53 +1,62 @@
 body{
-  background-repeat: no-repeat;
+  background-image: url("imagens/background2.jpg");
+  background-repeat: repeat-X;
   margin-top: auto;
   margin-bottom: auto;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 110px;
+  margin-right: 110px;
   text-align: center;
+  background-color: #000000d2;
+}
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px;
+  margin-right: 0;
 }
 
  p {
-  backgroundgit coi-color: grey;
+  background-color: rgba(255, 255, 255, 0.63);
   padding: 20px;
   display: none;
   text-align: center;  
+  color: black;
 }
-          
+
+.link{
+  color:#000000;
+}
 h2:hover + p {
   display: block;
   text-align: center;
+
+}
+
+h2{ 
+  color:#fff;
 }
 .topo{
-  background-color: #ffffff;
-  margin-top: auto;
+  background-color: #fff;
+  margin-top: 3.97%;
   margin-bottom: auto;
   margin-left: 100px;
   margin-right: 100px;
   text-align: center;
   color: #000;
 }
-.subtopo{
-  background-color: #000;
-  background-repeat: repeat;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-left: 100px;
-  margin-right: 100px;
-  text-align: center;
-
-}
 
 .conteudo{
-  background-color: #f0f0f0;
-  margin-top: auto;
+  background-color: #55555557;
+  margin-top: 0%;  
   margin-bottom: auto;
   margin-left: 100px;
   margin-right: 100px;
   text-align: center;
 }
 .conteudo2{
-  background-color: #f0f0f0;
+  background-color: #27212157;
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 100px;
@@ -55,7 +64,7 @@ h2:hover + p {
   text-align: center;
 }
 .conteudo3{
-  background-color: #f0f0f0;
+  background-color: #27212157;
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 100px;
@@ -64,7 +73,7 @@ h2:hover + p {
 }
 
 .conteudo4{
-  background-color: #f0f0f0;
+  background-color: #27212157;
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 100px;
