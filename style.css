@@ -1,10 +1,73 @@
-*{margin: 0; padding: 0;}
-p {
+body{
+  background-repeat: no-repeat;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+
+ p {
   backgroundgit coi-color: grey;
   padding: 20px;
   display: none;
+  text-align: center;  
 }
           
 h2:hover + p {
   display: block;
+  text-align: center;
+}
+.topo{
+  background-color: #ffffff;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  color: #000;
+}
+.subtopo{
+  background-color: #000;
+  background-repeat: repeat;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+
+}
+
+.conteudo{
+  background-color: #f0f0f0;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+.conteudo2{
+  background-color: #f0f0f0;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+.conteudo3{
+  background-color: #f0f0f0;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+
+.conteudo4{
+  background-color: #f0f0f0;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
 }
