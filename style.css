@@ -36,16 +36,27 @@ h2:hover + p {
 
 h2{ 
   color:#fff;
-}
-.topo{
+} 
+.topo1{
   background-color: #fff;
   margin-top: 3.97%;
-  margin-bottom: auto;
+  margin-bottom: 10px;
   margin-left: 100px;
-  margin-right: 100px;
-  text-align: center;
+  margin-right: 637px;
+  text-align: left;
   color: #000;
+  font-family: 'Bebas Neue', cursive;
 }
+
+.topo2{
+  background-color:#000;
+  margin-top: -300px;
+  margin-bottom: 15%;
+  margin-left: 450px;
+  margin-right: 100px;
+  text-align: justify, center;
+  color: #fff;
+  }
 
 .conteudo{
   background-color: #55555557;
@@ -54,6 +65,7 @@ h2{
   margin-left: 100px;
   margin-right: 100px;
   text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
 .conteudo2{
   background-color: #27212157;
@@ -79,4 +91,18 @@ h2{
   margin-left: 100px;
   margin-right: 100px;
   text-align: center;
+}
+
+.footer{
+  background-color: #fff;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.special{
+  color:#000;
+  
 }
