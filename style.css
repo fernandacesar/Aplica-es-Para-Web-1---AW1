@@ -1,20 +1,46 @@
 body{
-  background-image: url("imagens/background2.jpg");
+  background-image: url("imagens/back.png");
   background-repeat: repeat-X;
   margin-top: auto;
   margin-bottom: auto;
-  margin-left: 110px;
-  margin-right: 110px;
   text-align: center;
-  background-color: #000000d2;
+  background-color: #e2e2e2;
 }
+.topnav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  overflow: hidden;
+  background-color: #000000;
+}
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(66, 217, 255);
+  color: rgb(0, 0, 0);
+}
+
+.topnav a.active {
+  background-color: #fa6afa;
+  color: white;
+}
+.nome{
+  color : #57df9f;
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 28PX;
+}
+
 
 h1{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 10px;
-  margin-right: 0;
+  
+
 }
 
  p {
@@ -28,69 +54,51 @@ h1{
 .link{
   color:#000000;
 }
-/*   */
 
 h2{ 
   color:#fff;
 } 
 .topo1{
-  background-color: #fff;
-  margin-top: 3.97%;
-  margin-bottom: 10px;
-  margin-left: 100px;
-  margin-right: 637px;
-  text-align: left;
-  color: #000;
-  font-family: 'Bebas Neue', cursive;
+  margin-left:auto;
 }
 
 .topo2{
-  background-color:#050505;
-  margin-top: -300px;
-  margin-bottom: 15%;
-  margin-left: 450px;
-  margin-right: 100px;
+  background-color:#5dffa0;
+  margin-left: 1020px;
+  margin-right: 0px;
   text-align: justify, center;
-  color: #fff;
+  color: rgb(0, 0, 0);
   }
 
   .topo3{
-    background-color:#d6d6d6;
-    margin-top: -150px;
-    margin-bottom: 2%;
-    margin-left: auto;
-    margin-right: auto;
+    background-color:#ffe96e;
+    margin-top: -10px;
+    margin-left: 1020px;
     text-align: center, justify;
     color: #000;
     font-family: 'Roboto Mono', monospace;
-    width: 10%;
-    height:auto;
+    font-size: x-large;
   }
 
   .topo4{
-    background-color:#d6d6d6;
-    margin-top: -160px;
-    margin-bottom: 2%;
-    margin-left: 58%;
-    margin-right: auto;
+    background-color:#ffa2c9;
+    margin-top: -10px;
+    margin-left: 1020px;
     text-align: center, justify;
     color: #000;
     font-family: 'Roboto Mono', monospace;
-    width: 10%;
-    height:5%;
+    font-size: x-large;
   }
 
    .topo5{
-    background-color:   #d6d6d6;
-    margin-top: -151px;
-    margin-bottom: 2%;
-    margin-left: 70%;
-    margin-right: auto;
+    background-color:#b6704f;
+    margin-top: -10px;
+    margin-bottom: 13%;
+    margin-left: 1020px;
     text-align: center, justify;
     color: #000;
     font-family: 'Roboto Mono', monospace;
-    width: 150px;
-    height:auto;
+    font-size: x-large;
   } 
 .conteudo{
   background-color: #55555557;
