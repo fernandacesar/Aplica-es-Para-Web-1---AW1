@@ -90,59 +90,61 @@ h2{
     font-size: x-large;
   }
 
-   .topo5{
-    background-color:#b6704f;
-    margin-top: -10px;
-    margin-bottom: 13%;
+.topo5{
+    background-color:#b6704f;     
     margin-left: 1020px;
     text-align: center, justify;
     color: #000;
     font-family: 'Roboto Mono', monospace;
     font-size: x-large;
-  } 
+} 
 .conteudo{
-  background-color: #55555557;
-  margin-top: 0%;  
-  margin-bottom: auto;
-  margin-left: 100px;
-  margin-right: 100px;
+    margin-top: -48%;
+  background-color: #fa6afa;
+  margin-bottom: 2%;
+  margin-right: 500px;
   text-align: center;
   font-family: 'Roboto Mono', monospace;
 }
 .conteudo2{
-  background-color: #27212157;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 100px;
-  margin-right: 100px;
+  background-color: #31e0ff;
+  margin-bottom: 2%;
+  margin-right: 500px;
   text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
+
 .conteudo3{
-  background-color: #27212157;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 100px;
-  margin-right: 100px;
+  background-color: #60ff51;
+  margin-bottom: 2%;
+  margin-right: 500px;
   text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .conteudo4{
-  background-color: #27212157;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 100px;
-  margin-right: 100px;
+  background-color: #ffd753;
+  margin-bottom: 2%;
+  margin-right: 500px;
   text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+.conteudo5{
+  background-color: #ff83a8;
+  margin-bottom: 2%;
+  margin-right: 500px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .footer{
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 100px;
   margin-right: 100px;
   font-family: 'Roboto Mono', monospace;
-}
+}*/
 
 .special{
   color:#000;
